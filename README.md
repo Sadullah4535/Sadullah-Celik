@@ -25,7 +25,7 @@
 ```yaml 
 name: Sadullah Celik
 located_in: Turkey, Aydın
-current_job: I’m currently learning
+current_job: I’m Research Assistant at Aydın Adnan Menderes University
 education:
   [
     "Self-Taught Developer and Designer",
