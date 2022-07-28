@@ -33,7 +33,7 @@ education:
     "Master's in Maths",
     "Bachelor's in Maths",
   ]
-company: Clarusway
+University: Aydın Adnan Menderes University
 
 fields_of_interests:
   [
