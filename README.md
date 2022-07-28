@@ -22,7 +22,7 @@
 <br />
 
 
-yaml 
+```yaml 
 name: Sadullah Celik
 located_in: Turkey, Aydın
 current_job: I’m currently learning
@@ -41,7 +41,8 @@ fields_of_interests:
     "Data Science",
     "Machine Learning",
     "Game Development",
-    "DevOps", "Deep Learning",
+    "DevOps", 
+    "Deep Learning",
   ]
 technical_background:
   [
@@ -52,4 +53,5 @@ technical_background:
   
 currently_learning: ["Docker, Python, Big Data, Data Science, Machine Learning, Deep Learning "]
 2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"] * 
+hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"] *
+```
